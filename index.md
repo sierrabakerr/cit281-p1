@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Project 1
 
-You can use the [editor on GitHub](https://github.com/sierrabakerr/cit281-p1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[RETURN TO HOMEPAGE](https://sierrabakerr.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Learning Objectives:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### After completing this project, you will:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Gain experience accessing your operating system's command line interface (CLI)
 
-- Bulleted
-- List
+Gain experience working with CLI commands
 
-1. Numbered
-2. List
+Gain experience working with Visual Studio Code (VSCode)
 
-**Bold** and _Italic_ and `Code` text
+Gain experience writing and executing non-web server Node.js JavaScript code
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Overview:
 
-### Jekyll Themes
+### Project elements:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sierrabakerr/cit281-p1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Use the command line interface (CLI) of your operating system to create a number of folders
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+List the folders in a tree-like structure
+
+Use the ping command, and practice using the break keyboard sequence
+
+Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
+
+
+
+## Lab Deliverables:
+
+### 1. p1-folders.png
+![p1-folders.png](p1-folders.png)
+
+### 2. p1-tree.png
+![p1-tree.png](p1-tree.png)
+
+### 3. p1-break.png
+![p1-break.png](p1-break.png)
+
+### 4. p1-ping.png
+![p1-ping.png](p1-ping.png)
+
+### 5. p1-date.js
+[p1-date.js](p1-date.js)
+
+### 6. p1-random.js
+[p1-random.js](p1-random.js)
+
+
+
