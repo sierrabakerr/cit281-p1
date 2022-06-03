@@ -41,7 +41,7 @@ Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCo
 ![p1-tree.png](p1-tree.png)
 
 ### 3. p1-break.png
-[p1-break.png](p1-break.png)
+![p1-break.png](p1-break.png)
 
 ### 4. p1-ping.png
 ![p1-ping.png](p1-ping.png)
