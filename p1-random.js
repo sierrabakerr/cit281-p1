@@ -2,7 +2,6 @@
     CIT 281 Project 1
     Name: Sierra Baker
 */
-
 /*
 - Documentation block
 - Output to the console a string of random length between 5 - 25 characters (range inclusive) in 
