@@ -32,7 +32,7 @@ Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCo
 
 
 
-## Lab Deliverables:
+## Project Deliverables:
 
 ### 1. p1-folders.png
 ![p1-folders.png](p1-folders.png)
