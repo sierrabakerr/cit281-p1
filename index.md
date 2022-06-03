@@ -46,11 +46,9 @@ Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCo
 ### 4. p1-ping.png
 ![p1-ping.png](p1-ping.png)
 
-### 5. p1-date.js
-[p1-date.js](p1-date.js)
+### 5. [p1-date.js](p1-date.js)
 
-### 6. p1-random.js
-[p1-random.js](p1-random.js)
+### 6. [p1-random.js](p1-random.js)
 
 
 
