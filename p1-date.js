@@ -2,7 +2,6 @@
     CIT 281 Project 1
     Name: Sierra Baker
 */
-
 /*
 Directions:
 - Output to the console the day of the week of the current day
